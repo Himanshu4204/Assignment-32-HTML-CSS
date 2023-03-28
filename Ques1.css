@@ -1,0 +1,33 @@
+h2 {
+    /* Positioning*/
+    margin: 0px auto;
+    width: 500px;
+
+    /* Font Styling*/
+    font-size: 4rem;
+    font-family: system-ui, -apple-system;
+    letter-spacing: 2px;
+    padding-top: 200px;
+}
+
+.subtitle {
+    /* Positining*/
+    margin: 0 auto;
+    width: 200px;
+
+    /* font Sizing*/
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 5px;
+}
+
+.one {
+
+    /* background-color: antiquewhite; */
+    /* background-image: url('./Coffe.jpeg'); */
+    color: #f1f5f3;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0,0.4)), url('./Coffe.jpeg');
+
+    min-height: 100vh;
+}
